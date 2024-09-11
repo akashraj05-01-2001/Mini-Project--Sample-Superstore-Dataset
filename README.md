@@ -1,1 +1,6 @@
 # Mini-Project--Sample-Superstore-Dataset
+Project Description:
+"In this project, we harness the power of data visualization using Power BI to unlock the insights hidden within the Sample Superstore dataset. The Sample Superstore dataset, a rich repository of sales and customer information, serves as the foundation for our exploration. Our main objective is to address 30 unique scenarios by creating visually impactful graphs and dashboards that not only answer specific questions but also reveal patterns and trends, ultimately aiding in strategic decision-making for the superstore."
+
+Problem Statement:
+"While the Sample Superstore dataset contains a trove of information, the challenge lies in extracting actionable insights from the data. The current lack of a systematic analysis hinders the ability to make informed decisions. This project aims to fill this gap by employing Power BI to answer 30 scenario-based questions. Through interactive visualizations, we intend to not only provide answers but also offer a nuanced understanding of the underlying dynamics, enabling stakeholders to navigate the complexities of the Sample Superstore data and make data-driven decisions with confidence."
